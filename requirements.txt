@@ -1,0 +1,11 @@
+streamlit
+llama-cpp-python
+sentence-transformers
+PyPDF2
+chromadb
+langchain
+langchain_community
+beautifulsoup4
+lxml
+duckduckgo-search
+tqdm

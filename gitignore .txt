@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE and OS-specific files
+.idea/
+.vscode/
+.DS_Store
+
+# Anaconda environment files
+.conda/
+env/
+venv/
+
+# Persistent database directory
+chroma_db*
+
+# Agent's working directory
+project_workspace/
+
+# Sensitive files
+.env
